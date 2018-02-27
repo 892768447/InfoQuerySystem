@@ -1,0 +1,7 @@
+pymysql
+sqlalchemy
+tornado
+openpyxl
+pyyaml
+xxtea
+rsa
