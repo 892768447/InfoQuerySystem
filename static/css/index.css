@@ -1,0 +1,17 @@
+.layui-layout-admin .layui-logo {
+  cursor: default;
+  font-size: 20px;
+}
+
+.layui-tab {
+  margin: 0;
+}
+
+.layui-nav .layui-nav-child a {
+  padding: 0 40px;
+}
+
+.layui-tab-card {
+  border: none;
+  box-shadow: none;
+}
