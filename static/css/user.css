@@ -1,0 +1,23 @@
+.item-block {
+  display: block;
+  margin-bottom: 10px;
+  padding: 5px;
+  line-height: 22px;
+  border-radius: 0 2px 2px 0;
+  background-color: #f2f2f2;
+}
+
+.item-block span {
+  float: right;
+  line-height: 40px;
+}
+
+.reload {
+  line-height: 1.6em;
+  margin-top: 3px;
+  float: right;
+}
+
+.reload i {
+  line-height: 30px;
+}
